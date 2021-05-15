@@ -39,7 +39,10 @@
 ## Frames
 
 * [Source One](https://github.com/tbs-trappy/source_one) - Open source frame initiated by Team BlackSheep.
-* [Source Two](https://github.com/ps915/source_two) - Open source frame targeted at FPV racers.
+* [Source Two](https://github.com/ps915/source_two) - Continuation of the Source One targeted at FPV racers.
+* [Source Micro](https://github.com/ps915/source_micro) - Open source micro frame.
+* [Source PodRacer](https://github.com/ps915/source_podracer) - Open source ultralight racing frame.
+* [Source V](https://github.com/ps915/source_v) - Continuation of the Source frame line, that aims to be vertical, ultra-stiff and low drag for drone racers.
 * [Rotor Riot](https://rotorriot.com/collections/frames-1/manufacturer_rotor-riot) - HD1 and CLI1 frames desgined by Rotor Riot.
 * [iFlight](https://shop.iflight-rc.com/index.php?route=product/category&path=25_32) - Various racing, long range and freestyle frames.
 
