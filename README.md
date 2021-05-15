@@ -26,7 +26,7 @@
 ### Flight Controller Software
 
 * [Betaflight](https://github.com/betaflight/betaflight) - Open source flight controller software for multi-rotor crafts and fixed wings, focusing on flight performance, leading-edge feature additions, and wide target support.
-* [EmuFlight](https://github.com/emuflight/EmuFlight) - Fork of Betaflight focusing for multi-rotor crafts on flight performance, innovative filtering, and leading-edge features.
+* [EmuFlight](https://github.com/emuflight/EmuFlight) - Fork of Betaflight focusing on multi-rotor crafts on flight performance, innovative filtering, and leading-edge features.
 * [INAV](https://github.com/iNavFlight/inav) - Fork of Cleanflight focusing on GPS features for both airplanes & multirotor models.
 * [ArduPilot](https://github.com/ArduPilot/ardupilot) - Open source autopilot software.
 
