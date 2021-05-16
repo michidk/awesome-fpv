@@ -1,6 +1,6 @@
 # Awesome FPV [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collection of resources about FPV ([First-Person View](https://en.wikipedia.org/wiki/First-person_view_(radio_control))) drones.
+> A collection of useful resources about FPV ([First-Person View](https://en.wikipedia.org/wiki/First-person_view_(radio_control))) drones.
 
 ## Contents
 
@@ -8,7 +8,9 @@
 * [Transmitter Software](#transmitter-software)
 * [Flight Controller Software](#flight-controller-software)
 * [Digital Video Links](#digital-video-links)
-* [Frames](#frames)
+* [Parts](#parts)
+  * [Frames](#frames)
+* [Communities](#communities)
 * [Shops](#shops)
 
 ---
@@ -36,7 +38,9 @@
 * [DJI OcuSync](https://www.dji.com/fpv) - Video transmissiion system by DJI.
 * [Shark Byte](https://www.fatshark.com/product-category/shark-byte/) - Video transmission system by Fat Shark
 
-## Frames
+## Parts
+
+### Frames
 
 * [Source One](https://github.com/tbs-trappy/source_one) - Open source frame initiated by Team BlackSheep.
 * [Source Two](https://github.com/ps915/source_two) - Continuation of the Source One targeted at FPV racers.
@@ -45,6 +49,12 @@
 * [Source V](https://github.com/ps915/source_v) - Continuation of the Source frame line, that aims to be vertical, ultra-stiff and low drag for drone racers.
 * [Rotor Riot](https://rotorriot.com/collections/frames-1/manufacturer_rotor-riot) - HD1 and CLI1 frames desgined by Rotor Riot.
 * [iFlight](https://shop.iflight-rc.com/index.php?route=product/category&path=25_32) - Various racing, long range and freestyle frames.
+
+## Communities
+
+### English
+
+* [UAVfutures](https://discord.com/invite/W24ryse)
 
 ## Shops
 
